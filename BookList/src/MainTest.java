@@ -53,7 +53,7 @@ public class MainTest
 				case 7: output();
 				break;
 				case 8: keyboard.close(); 
-						exit();
+					exit();
 				break;
 				case 9: for(int x = 0 ; x < lecturerList.size() ; x++)
 						{
