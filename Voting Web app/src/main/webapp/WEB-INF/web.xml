@@ -1,0 +1,57 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+  <display-name>Archetype Created Web Application</display-name>
+  <servlet>
+  	<servlet-name>addCandidate</servlet-name>
+  	<display-name>addCandidate</display-name>
+  	<description></description>
+  	<servlet-class>ie.OOSSP.Project1.addCandidate</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>validateCandidate</servlet-name>
+  	<display-name>validateCandidate</display-name>
+  	<description></description>
+  	<servlet-class>ie.OOSSP.Project1.validateCandidate</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>vote</servlet-name>
+  	<display-name>vote</display-name>
+  	<description></description>
+  	<servlet-class>ie.OOSSP.Project1.vote</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>resetCandidates</servlet-name>
+  	<display-name>resetCandidates</display-name>
+  	<description></description>
+  	<servlet-class>ie.OOSSP.Project1.resetCandidates</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>viewResults</servlet-name>
+  	<display-name>viewResults</display-name>
+  	<description></description>
+  	<servlet-class>ie.OOSSP.Project1.viewResults</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>addCandidate</servlet-name>
+  	<url-pattern>/addCandidate</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>validateCandidate</servlet-name>
+  	<url-pattern>/validateCandidate</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>vote</servlet-name>
+  	<url-pattern>/vote</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>resetCandidates</servlet-name>
+  	<url-pattern>/resetCandidates</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>viewResults</servlet-name>
+  	<url-pattern>/viewResults</url-pattern>
+  </servlet-mapping>
+</web-app>
