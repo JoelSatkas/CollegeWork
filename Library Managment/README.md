@@ -1,0 +1,1 @@
+An app that manages books. Demonstrates the use of a link list.
