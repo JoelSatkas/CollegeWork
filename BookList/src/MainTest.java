@@ -56,9 +56,9 @@ public class MainTest
 					exit();
 				break;
 				case 9: for(int x = 0 ; x < lecturerList.size() ; x++)
-						{
-							lecturerList.get(x).print() ;
-						}
+					{
+						lecturerList.get(x).print() ;
+					}
 				break;
 				default: print("ERROR");
 				break;
