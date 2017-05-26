@@ -1,0 +1,11 @@
+
+public class Buffer 
+{
+	
+	public Buffer()
+	{
+		System.out.println("Creating: Buffer");
+	}
+	
+	
+}

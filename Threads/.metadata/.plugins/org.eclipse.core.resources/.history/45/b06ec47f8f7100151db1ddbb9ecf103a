@@ -1,0 +1,27 @@
+import java.util.Random;
+
+
+public class ProducerThread implements Runnable
+{
+
+	static Random RNG = new Random() ;
+	private Buffer buf ;
+	
+	public ProducerThread(Buffer b)
+	{
+		System.out.println("Creating Thread: Producer") ;
+		buf = b ;
+	}
+	
+	public void run() 
+	{
+			
+	}
+	
+	public void start()
+	{
+		
+	}
+	
+	
+}

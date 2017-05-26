@@ -1,0 +1,71 @@
+
+public class Main 
+{
+	
+	/**
+	 * 
+	 * Assignment 2. Finish by Week 5
+	 * Develop a multithreaded producer-consumer system where a producer
+	 *  produces a random integer number (range 1 to 10). 
+	 * A consumer guesses this number (5 Guesses), sees if its guess is correct.
+	 * The consumer counts the number of correct guesses,
+	 * and clicks a next button in order for the producer to produce
+	 * another integer so that it can try guessing again.  
+	 * Note the shared buffer holds only one integer at a time and the
+	 * number of correct guesses. 
+	 * The producer and consumer outputs the number of correct/incorrect
+	 * before finishing.
+	 * Make sure that the consumer does not consume the same item
+	 * twice and that the producer does not overwrite an unconsumed item.
+	 * Do not use an array-blocking Queue.
+	 * 
+	 *  
+	 */
+	
+	/*-------------------------------------Notes--------------------------------------------------------
+	 * Java is a multi threaded programming language which means we can develop multi
+	 * threaded program using Java.
+	 * A multi threaded program contains two or more parts that can run concurrently
+	 * and each part can handle different task at the same time making optimal use of the available
+	 * resources specially when your computer has multiple CPUs.
+	 * 
+	 * By definition multitasking is when multiple processes share common processing resources such
+	 * as a CPU.
+	 * Multi threading extends the idea of multitasking into applications where you can subdivide
+	 * specific
+	 * operations within a single application into individual threads. Each of the threads can run
+	 * in parallel.
+	 * The OS divides processing time not only among different applications, but also among each
+	 * thread within an application.
+	 * 
+	 * Multi threading enables you to write in a way where multiple activities can proceed concurrently in the same program.
+	 * - Tutorial Point @ http://www.tutorialspoint.com/java/java_multithreading.htm
+	 * ------------------------------------------------------------------------------------------------------------------------------
+	 * A thread is a sequence of execution within a process – know as a “lightweight” process.
+	 * It is a single flow of control.
+	 * A thread does not have its own address space but uses the memory and other resources of the process in which it executes
+	 * The resources required for a thread are substantially less than those required for a process.
+	 * There may be several threads in one process.  The JVM manages these and schedules them for
+	 * execution.
+	 * 
+	 *   Parallel – two thread are said to run in parallel when they are both executing at the same
+	 *   time using different CPUs. 
+	 *   
+	 *   Concurrent  - two concurrent threads are both in progress, or trying to get some CPU time
+	 *   for execution, at the same time,
+	 *   but not necessarily being executed simultaneously on different CPUs.
+	 *   
+	 * - Denis's Notes
+	 * 
+	 * 
+	 */
+	
+	public static void main(String[] args) 
+	{
+		
+	}
+
+	
+	
+	
+}

@@ -1,0 +1,16 @@
+
+public class ConsumerThread implements Runnable
+{
+
+	
+	public ConsumerThread()
+	{
+		System.out.println("Creating Thread: Consumer") ;
+	}
+
+	public void run() 
+	{
+			
+	}
+	
+}
