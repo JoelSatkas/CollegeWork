@@ -1,3 +1,0 @@
-INDEX VERSION 1.127+G:\Java Workspace\Year 3 Semester 1\Adv. Obj. Programming\Lab-02\.metadata\.plugins\org.eclipse.jdt.core
-335168799.index
-494989758.index
