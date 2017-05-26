@@ -9,10 +9,9 @@ public class MainTest
 	
 	public static void main(String[] args) 
 	{
+		int choice = 0 ;
 		while (true)
-		{
-			int choice = 0 ;
-			
+		{						
 			print("\nPlease select an option");
 			print("-----------------------");
 			print("1) Add Lecturer");
