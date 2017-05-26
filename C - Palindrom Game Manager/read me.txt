@@ -1,0 +1,20 @@
+Option 1. Load palindromes from file. - > GIVEN
+
+Option 2. Print the numbers of the list -> DONE/WORKS
+
+Option 3. Check if palindrome is in the list. -> DONE/WORKS
+
+Option 4. Show info of a number. -> DONE/WORKS
+
+Option 5. Add a palindrome by keyboard -> DONE/WORKS 
+
+*Option 6. Solve a palindrome. -> NOT DONE. made an attempt, see comments in code.
+
+Option 7. Remove a palindrome. -> DONE/WORKS
+
+*Option 8. Sort the palindromes -> NOT DONE, ran out of time, sorry. 
+
+Option 9. Write the list to a file. -> DONE/WORKS
+
+6/8 Done.
+
