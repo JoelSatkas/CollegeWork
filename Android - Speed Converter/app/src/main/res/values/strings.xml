@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">Mobile Assignment 1 \"Wind\"</string>
+
+    <string
+        name="hello_world">Hello world!</string>
+
+    <string
+        name="action_settings">Settings</string>
+
+    <string name="title">Thing Calculator</string>
+    <string name="editTextHint">type here...</string>
+    <string name="button_txt">Third Activity</string>
+
+    <string name="A3_button1">Call Alert</string>
+    <string name="A3_button2">Call Notification</string>
+    <string name="A3_button3">Send Info Back</string>
+    <string name="A3_txtView1"></string>
+    <string name="A3_txtView2"></string>
+    <string name="A3_alertTxt">Did you find this app useful?</string>
+    <string name="A3_alertTitle">Rate App</string>
+    <string name="A3_alertSelect">You have selected</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="maybe">Maybe</string>
+    <string name="A3_alertYes">We are glad you have found this app useful</string>
+    <string name="A3_alertNo">We are sad to hear that, but thank you for your contribution</string>
+    <string name="A3_alertMaybe">You have selected maybe</string>
+    <string name="A3_notificationName">Wind app</string>
+    <string name="A3_notificationTxt">Press here to call 021 1234567</string>
+    <string name="mainTimesClicked">Numbers of buttons clicked in the third class: </string>
+
+
+    <string name="distance">Distance</string>
+    <string name="speed">Speed</string>
+    <string name="temp">Temperature</string>
+    <string name="weight">Weight</string>
+
+
+    <string name="title_activity_calculate">CalculateActivity</string>
+
+    <string name="CalculateTopText">Convert from</string>
+
+    <string name="CalculateMiddleText">to</string>
+
+
+
+    <string name="km_string">Kilometers</string>
+    <string name="miles_string">Miles</string>
+    <string name="foot_string">Feetsies</string>
+    <string name="inches_string">Inches</string>
+    <string name="meters_string">Meters</string>
+    <string name="cm_string">Centimeters</string>
+    <string name="mm_string">Millimeters</string>
+    <string name="yards_string">Yards</string>
+    <string name="ly_string">Light Years</string>
+
+
+
+    <string name="MPS_string">Meters per Second</string>
+    <string name="KMH_string">Km/h</string>
+    <string name="Mph_string">Mph</string>
+    <string name="knots_string">knots</string>
+    <string name="beaufort">Beaufort</string>
+
+
+
+
+    <string name="kelvin_string">Kelvin</string>
+    <string name="celsius_string">Celsius</string>
+    <string name="fahren_string">Fahrenheit</string>
+
+
+
+
+    <string name="grams_string">Grams</string>
+    <string name="kg_string">Kilograms</string>
+    <string name="ounces_string">Ounces</string>
+    <string name="pounds_string">Pounds</string>
+    <string name="stones_string">Stones</string>
+    <string name="title_activity_activity3">activity3</string>
+
+
+</resources>

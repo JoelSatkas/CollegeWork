@@ -1,0 +1,78 @@
+<resources>
+
+	<string name="app_name">Vėjas</string>
+	
+	<string name="hello_world">Sveikas Pasauli</string>
+
+	<string name = "action_settings"> Nustatymai </string>
+
+    <string name = "title"> dalykas skaičiuoklė </string>
+    <string name="editTextHint">rašykite čia</string>
+
+
+
+
+    <string name="A3_button1">ryšių įspėjimo</string>
+    <string name="A3_button2">Skambučių Pranešimas</string>
+    <string name="A3_button3">Siųsti Grižti</string>
+    <string name="A3_txtView1"></string>
+    <string name="A3_txtView2"></string>
+    <string name="A3_alertTxt">Ar radote šią programą naudinga? </string>
+    <string name="A3_alertTitle">įvertinti programą</string>
+    <string name="A3_alertSelect">Jūs pasirinkote</string>
+    <string name="yes">Taip</string>
+    <string name="no">Ne</string>
+    <string name="maybe">Galbūt</string>
+    <string name="A3_alertYes">Džiaugiamės, jūs turite rasti šią programą naudinga</string>
+    <string name="A3_alertNo">Mes liūdna girdėti, kad, bet ačiū už jūsų indėlį</string>
+    <string name="A3_alertMaybe">Jūs pasirinkote gal</string>
+    <string name="A3_notificationName">vėjo programa</string>
+    <string name="A3_notificationTxt">Paspauskite čia, jei norite skambinti 021 1234567</string>
+    <string name="mainTimesClicked">Skaičiai mygtukų paspaudžia trečioje klasėje: </string>
+
+
+    <string name = "title_activity_calculate">Apskaičiuokite Veiklos</string>
+    <string name="button_txt">Third Veiklos</string>
+
+    <string name = "CalculateTopText"> Konvertuoti iš </string>
+
+    <string name = "CalculateMiddleText"> į </string>
+
+
+
+    <string name = "km_string"> Kilometrai </string>
+    <string name = "miles_string"> mylių </string>
+    <string name = "foot_string"> pėdų </string>
+    <string name = "inches_string"> coliai </string>
+    <string name = "meters_string"> Matuokliai </string>
+    <string name = "cm_string"> centimetrai </string>
+    <string name = "mm_string"> milimetrai </string>
+    <string name = "yards_string"> puikų "</string>
+    <string name = "ly_string"> šviesmečių </string>
+
+
+
+    <string name = "MPS_string"> metrų per sekundę </string>
+    <string name = "KMH_string"> km / h </string>
+    <string name = "Mph_string"> mph </string>
+    <string name = "knots_string"> mazgų </string>
+    <string name = "Beaufort"> Beaufort </string>
+
+
+
+
+    <string name = "kelvin_string"> Kelvinas </string>
+    <string name = "celsius_string"> Celsijaus </string>
+    <string name = "fahren_string"> Farenheito </string>
+
+
+
+
+    <string name = "grams_string"> gramais </string>
+    <string name = "kg_string"> Kilogramų </string>
+    <string name = "ounces_string"> uncijų </string>
+    <string name = "pounds_string"> svaras </string>
+    <string name = "stones_string"> Akmenys </string>
+    <string name = "title_activity_activity3"> activity3 </string>
+
+</resources>

@@ -1,0 +1,82 @@
+<resources>
+    <string name = "app_name">Wind</string>
+
+    <string name = "hello_world"> Hallo Welt! </string>
+
+    <string name = "action_settings"> Einstellungen </string>
+
+    <string name = "title"> Sache Rechner </string>
+    <string name = "editTextHint"> geben Sie hier </string>
+    <string name="button_txt">tätigkeit3</string>
+
+    <string name="A3_button1">Anruf aufmerksam zu</string>
+    <string name="A3_button2">Anrufbenachrichtigungs</string>
+    <string name="A3_button3">Senden Infos Zurück</string>
+    <string name="A3_txtView1"></string>
+    <string name="A3_txtView2"></string>
+    <string name="A3_alertTxt">Sie haben dieses Programm nützlich finden?</string>
+    <string name="A3_alertTitle">evaluieren Programm</string>
+    <string name="A3_alertSelect">Sie haben gewählt</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nein</string>
+    <string name="maybe">Kann sein</string>
+    <string name="A3_alertYes">Wir sind froh, dass Sie diese App nützlich gefunden haben</string>
+    <string name="A3_alertNo">Wir sind traurig, das zu hören, aber ich danke Ihnen für Ihren Beitrag</string>
+    <string name="A3_alertMaybe">Sie haben vielleicht gewählt</string>
+    <string name="A3_notificationName">Wind-Programm</string>
+    <string name="A3_notificationTxt">Drücken Sie hier, um rufen Sie 021 1234567</string>
+    <string name="mainTimesClicked">Anzahl der Tasten in der dritten Klasse angeklickt: </string>
+
+
+
+    <string name = "distance"> Entfernung </string>
+    <string name = "speed"> Geschwindigkeit ​​</string>
+    <string name = "temp"> Temperatur </string>
+    <string name = "weight"> Gewicht </string>
+
+
+    <string name = "title_activity_calculate"> CalculateActivity </string>
+
+    <string name = "CalculateTopText"> Konvertieren von </string>
+
+    <string name = "CalculateMiddleText"> bis </string>
+
+
+
+    <string name = "km_string"> Kilometer </string>
+    <string name = "miles_string"> Meilen </string>
+    <string name = "foot_string"> Feetsies </string>
+    <string name = "inches_string"> Zoll </string>
+    <string name = "meters_string"> Messgeräte </string>
+    <string name = "cm_string"> Zentimeter </string>
+    <string name = "mm_string"> Millimetern </string>
+    <string name = "yards_string"> Werften </string>
+    <string name = "ly_string"> Lichtjahre </string>
+
+
+
+    <string name = "MPS_string"> Meter pro Sekunde </string>
+    <string name = "KMH_string"> Km / h </string>
+    <string name = "Mph_string"> Mph </string>
+    <string name = "knots_string"> Knoten </string>
+    <string name = "Beaufort"> Beaufort </string>
+
+
+
+
+    <string name = "kelvin_string"> Kelvin </string>
+    <string name = "celsius_string"> Celsius </string>
+    <string name = "fahren_string"> Fahrenheit </string>
+
+
+
+
+    <string name = "grams_string"> Gramm </string>
+    <string name = "kg_string"> Kilogramm </string>
+    <string name = "ounces_string"> Unzen </string>
+    <string name = "pounds_string"> zu viel </string>
+    <string name = "stones_string"> Steine </string>
+    <string name = "title_activity_activity3"> tätigkeit3 </string>
+
+
+</resources>
