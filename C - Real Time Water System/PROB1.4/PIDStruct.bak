@@ -1,0 +1,5 @@
+struct PIDStruct
+{
+	process_id pidArray[7];
+};
+#define STRUCT_SIZE_PID sizeof(struct PIDStruct)

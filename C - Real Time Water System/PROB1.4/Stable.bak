@@ -1,0 +1,6 @@
+struct Stable
+{
+	char chlorinated;
+	char florinated;
+};
+#define STRUCT_SIZE_STABLE sizeof(struct Stable)

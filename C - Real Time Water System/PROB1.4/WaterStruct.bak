@@ -1,0 +1,11 @@
+struct WaterStruct
+{
+	char filtered;
+	char sedimented;
+	char flocculated;
+	int pHLevel;
+	int chlorinationLevel;
+	int fluoridationLevel;
+	int hardWater;
+};
+#define STRUCT_SIZE_WATER sizeof(struct WaterStruct)

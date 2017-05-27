@@ -1,0 +1,80 @@
+;Microware Hawk Project File (do not remove or modify this line)
+[ProjInit]
+ProjSetConfigFlags=0x04010940
+ProjCheckPath='C:\Mwos\PROJECTS\PROB1.4\\'
+
+[State]
+SysSetCwd='C:\Mwos\PROJECTS\PROB1.4'
+SrchSetFlags=0x0410600a
+FileSortMode=0x0
+StateWindowFrame=286,111,960,718,0x63097fc8
+_StateHistory=FILELIST,'C:\Mwos\PROJECTS\PROB1.4\WaterStruct.h','C:\Mwos\PROJECTS\PROB1.4\PIDStruct.h','C:\Mwos\PROJECTS\PROB1.4\P1.c','C:\Mwos\PROJECTS\PROB1.4\P2.c','C:\Mwos\PROJECTS\PROB1.4\P3.c','C:\Mwos\PROJECTS\PROB1.4\P4.c','C:\Mwos\PROJECTS\PROB1.4\P5.c','C:\Mwos\PROJECTS\PROB1.4\P6.c','C:\Mwos\PROJECTS\PROB1.4\P7.c'
+_StateHistory=XSYMBOL,'sig_handler','WATER_STRUCT_NAME'
+
+[Editor]
+VCSProject=''
+VCSProjectPath=''
+VCSProjectLocalPath=''
+ScrapSetCount=1
+ClipboardEnableSepStr=1
+ClipboardSetSepStr='\r\n',0
+ClipboardEnableTermStr=1
+ClipboardSetTermStr='\r\n',0
+
+[Compiler]
+TagSetFile=''
+BrowseSetFile=''
+CompilerNewExt=.htm
+CompilerNewExt=.mak
+CompilerNewExt=.d
+CompilerNewExt=.a
+CompilerNewExt=.des
+CompilerNewExt=.cc
+CompilerNewExt=.html
+CompilerNewExt=.bat
+CompilerNewExt=.txt
+CompilerNewExt=.cmd
+TagSetCmd='${HOME}${WTAGS} -oc -d -t"${TAGFILE}.tag" -p"${TAGFILE}.ptg"',0x8000060
+
+[VersionControl:PVCS]
+VCSSetCmd=VCS_CHECKIN_ID,'put -n -T@%Q -M@%Q %b%e',0x8000040
+VCSSetCmd=VCS_CHECKINLOCK_ID,'put -n -T@%Q -M@%Q -l %b%e',0x8000040
+VCSSetCmd=VCS_CHECKOUT_ID,'get -y %b%e',0x8000040
+VCSSetCmd=VCS_CHECKOUTLOCK_ID,'get -y -l %b%e',0x8000040
+VCSSetCmd=VCS_CHECKLOCK_ID,'vcs -y -l %b%e',0x8000040
+VCSSetCmd=VCS_CHECKUNLOCK_ID,'vcs -y -u %b%e',0x8000040
+VCSSetCmd=VCS_CHECKLABEL_ID,'vcs -y -v"${VCSLABEL}" %b%e',0x8000040
+VCSSetCmd=VCS_CHECKLOG_ID,'vlog %b%e',0x8000040
+VCSSetCmd=VCS_CHECKPROP_ID,'vlog -b %b%e',0x8000040
+VCSSetCmd=VCS_CHECKDIFF_ID,'vdiff -r %b%e',0x8000040
+VCSSetCmd=VCS_CHECKMENU_ID,'pvcsvmwn',0x8000000
+VCSSetCmd=VCS_ADD_ID,'vcs -i -t@%Q %b%e',0x8000040
+VCSSetCmd=VCS_REMOVE_ID,'del /f %b%{??v|___}e',0x8000040
+
+[Files]
+C:\Mwos\PROJECTS\PROB1.4\P7.c
+C:\Mwos\PROJECTS\PROB1.4\P6.c
+C:\Mwos\PROJECTS\PROB1.4\P5.c
+C:\Mwos\PROJECTS\PROB1.4\P4.c
+C:\Mwos\PROJECTS\PROB1.4\P3.c
+C:\Mwos\PROJECTS\PROB1.4\P2.c
+C:\Mwos\PROJECTS\PROB1.4\PIDStruct.h
+C:\Mwos\PROJECTS\PROB1.4\WaterStruct.h
+C:\Mwos\PROJECTS\PROB1.4\Stable.h
+C:\Mwos\SRC\DEFS\stdlib.h
+C:\Mwos\SRC\DEFS\cglob.h
+C:\Mwos\OS9000\SRC\DEFS\modes.h
+C:\Mwos\PROJECTS\PROB1.4\P1.c
+C:\Mwos\OS9000\SRC\DEFS\dexec.h
+C:\Mwos\OS9000\SRC\DEFS\alloc.h
+C:\Mwos\OS9000\80386\DEFS\reg386.h
+C:\Mwos\OS9000\SRC\DEFS\regs.h
+C:\Mwos\SRC\DEFS\signal.h
+C:\Mwos\OS9000\SRC\DEFS\moddir.h
+C:\Mwos\OS9000\SRC\DEFS\module.h
+C:\Mwos\OS9000\SRC\DEFS\process.h
+C:\Mwos\SRC\DEFS\errno.h
+C:\Mwos\OS9000\SRC\DEFS\types.h
+C:\Mwos\SRC\DEFS\ansi_c.h
+C:\Mwos\SRC\DEFS\stdio.h
+C:\Mwos\PROJECTS\PROB1.4\PSTART.c
