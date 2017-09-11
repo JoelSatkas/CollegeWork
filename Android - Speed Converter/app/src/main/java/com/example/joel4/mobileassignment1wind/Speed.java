@@ -12,20 +12,15 @@ import android.content.res.Resources;
  */
 public class Speed implements ConverterInterface
 {
-
     private convertType type;
-
-
 
     public Speed()
     {
         type = convertType.speed ;
     }
 
-
     public String calcualte(int firstPos, int secondPos, int value)
     {
-
         if(firstPos == 1 && secondPos == 1)
         {
             return value+" Mps "+mpsToBeaufort(value) ;
